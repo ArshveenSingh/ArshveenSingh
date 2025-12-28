@@ -18,6 +18,24 @@ I'm a **Grade 9 student** passionate about **Artificial Intelligence**, **Comput
 
 ---
 
+## 🪀 Development Approach: Vibe Coding
+
+I practice **Vibe Coding** - a modern, conversational AI-driven development approach:
+
+- **What it is**: Using LLMs (Claude, GPT-4, Gemini) in conversational prompts to generate, refine, and debug code
+- **How it works**: Describe desired functionality in natural language → AI generates code → I refine and validate
+- **Benefits**: Focus on high-level goals rather than syntax, rapid prototyping, faster app creation
+- **Tools I use**: Google Antigravity IDE, GitHub Copilot, Cursor IDE
+- **Not just copy-paste**: I understand, evaluate, test, and improve AI-generated code
+
+### Why Vibe Coding?
+- Shifts focus from syntax → problem-solving
+- Enables faster iteration and experimentation
+- Still requires deep understanding of what you're building
+- Perfect for AI/ML projects where rapid prototyping is key
+
+---
+
 ## 💡 Skills & Technologies
 
 ### Programming Languages
