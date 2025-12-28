@@ -1,17 +1,17 @@
 # 👋 Hey there! I'm Arshveen Singh
 
-## 🤖 AI Developer | Python | Computer Vision & Deep Learning
+## 🤖 AI Developer | Python | Machine Learning
 
 ### Welcome to my GitHub profile! 
-I'm a **Grade 9 student** passionate about **Artificial Intelligence**, **Computer Vision**, and **Machine Learning**. I love building projects that solve real-world problems using cutting-edge AI technologies.
+I'm a **Grade 9 student** passionate about **Machine Learning**. I love building projects that solve real-world problems using cutting-edge AI technologies.
 
 ---
 
 ## 🚀 About Me
 
-- 🎯 **Currently working on**: Vision AI - An advanced OCR and computer vision application
+- 🎯 **Currently working on**: Vision AI - A multi source ai platform
 - 💻 **Languages**: Python, Markdown, SQL
-- 🧠 **Specialization**: Machine Learning, Deep Learning, Computer Vision, OCR
+- 🧠 **Specialization**: Machine Learning
 - 🎓 **School**: Kamal Public School, New Delhi
 - 📍 **Location**: New Delhi, India
 - 💬 **Languages**: English, Hindi
@@ -109,7 +109,6 @@ Git • GitHub • Google Colab • Jupyter Notebook • VS Code
 
 ## 💬 Fun Facts
 
-- 🐱 My GitHub avatar is a tech-savvy cat with AI vision!
 - 🎮 When I'm not coding, I'm exploring new tech trends
 - 🚀 Passionate about making AI accessible to everyone
 - 📖 Lifelong learner and problem solver
