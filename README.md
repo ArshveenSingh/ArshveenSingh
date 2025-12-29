@@ -58,12 +58,10 @@ Git • GitHub • Google Colab • Jupyter Notebook • VS Code
 ## 🏆 Projects
 
 ### [Vision AI](https://github.com/ArshveenSingh/vision-ai)
-*Advanced OCR and Computer Vision Application*
-- Real-time text detection and recognition
-- Image processing and enhancement
-- Multi-language OCR support
-- **Tech**: Python, OpenCV, EasyOCR, TensorFlow
-
+*Advanced AI Application*
+- Inspired from J.A.R.V.I.S.
+- Made for personal use
+- Might make it public
 ---
 
 ## 📊 GitHub Stats
@@ -93,8 +91,7 @@ Git • GitHub • Google Colab • Jupyter Notebook • VS Code
 ## 🎓 Education
 
 📚 **Kamal Public School**
-- Grade 9 NCERT Student
-- Focus: Mathematics, Physics, Chemistry, Computer Science
+- Grade 9 student
 
 ---
 
@@ -116,5 +113,6 @@ Git • GitHub • Google Colab • Jupyter Notebook • VS Code
 ---
 
 **⭐ Feel free to explore my repositories and reach out if you'd like to collaborate!**
+- Feel free to reach out on my 📧 **Email**: arsaahsion@gmail.com
 
 *Last updated: December 28, 2025*
